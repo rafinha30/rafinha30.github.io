@@ -1,0 +1,40 @@
+.Quem-Somos{
+    background-color: black;
+    color: aliceblue;
+    padding-top: 20px;
+    padding-bottom:30px;
+}
+#Regras{
+    background-color:rgb(22, 21, 21);
+    color:whitesmoke;
+    
+}
+
+.admins{
+    text-align: center;
+}
+
+.rodape{
+    background-color: rgb(52, 54, 52);
+    text-align: center;
+    padding: 30px;
+}
+.topo{
+    background-color:black;
+    color: cornsilk;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 30px;
+    text-align: center;
+
+}
+.sessao{
+    background-color:black;
+    padding-bottom:10px;
+}
+.sessao2{
+    background-color: black;
+    padding-bottom: 10px;
+}
+.container{
+    background-color: aquamarine;
+}
